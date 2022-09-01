@@ -1,1 +1,1 @@
-This is my undergrad thesis and the [thesis defense video](https://youtu.be/sh2HOLUrCQ0). 
+This is my undergrad thesis and the [thesis defense video](https://youtu.be/sh2HOLUrCQ0), along with my final report for a graduate level chaos theory course I took, which involves high level math and coding. 
